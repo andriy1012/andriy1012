@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andiryy</h1>
 <h3 align="center">I'am from Indonesia, currently studying Software Engineering, Cybersecurity and Computer Science
+  
   |Trader|</h3>
 
 
