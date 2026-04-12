@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andiryy</h1>
-<h3 align="center">I'am from Indonesia, currently studying Software Engineering, Cybersecurity and Computer Science</h3>
+<h3 align="center">I'am from Indonesia, currently studying Software Engineering, Cybersecurity and Computer Science|Trader|</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/andriy1012/](https://github.com/andriy1012/)
